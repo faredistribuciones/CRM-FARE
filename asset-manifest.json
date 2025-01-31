@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CRM-FARE/static/css/main.402bbf42.css",
+    "main.js": "/CRM-FARE/static/js/main.c7f5c110.js",
+    "static/js/488.21e1df4b.chunk.js": "/CRM-FARE/static/js/488.21e1df4b.chunk.js",
+    "index.html": "/CRM-FARE/index.html",
+    "main.402bbf42.css.map": "/CRM-FARE/static/css/main.402bbf42.css.map",
+    "main.c7f5c110.js.map": "/CRM-FARE/static/js/main.c7f5c110.js.map",
+    "488.21e1df4b.chunk.js.map": "/CRM-FARE/static/js/488.21e1df4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.402bbf42.css",
+    "static/js/main.c7f5c110.js"
+  ]
+}
