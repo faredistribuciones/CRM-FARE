@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.d76a4865.js",
-    "static/js/488.21e1df4b.chunk.js": "/static/js/488.21e1df4b.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.d76a4865.js.map": "/static/js/main.d76a4865.js.map",
-    "488.21e1df4b.chunk.js.map": "/static/js/488.21e1df4b.chunk.js.map"
+    "main.css": "/CRM-FARE/static/css/main.e6c13ad2.css",
+    "main.js": "/CRM-FARE/static/js/main.cd707dc8.js",
+    "static/js/488.21e1df4b.chunk.js": "/CRM-FARE/static/js/488.21e1df4b.chunk.js",
+    "index.html": "/CRM-FARE/index.html",
+    "main.e6c13ad2.css.map": "/CRM-FARE/static/css/main.e6c13ad2.css.map",
+    "main.cd707dc8.js.map": "/CRM-FARE/static/js/main.cd707dc8.js.map",
+    "488.21e1df4b.chunk.js.map": "/CRM-FARE/static/js/488.21e1df4b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.d76a4865.js"
+    "static/js/main.cd707dc8.js"
   ]
 }
