@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Configuración de Google Sheets API
 const SHEET_ID = '1sOwtY1fv3xlXI-sIUD5WJxnDRGN5kyvcu2ZEgT1-XUI'; // Reemplázalo con tu ID de Google Sheets
-const APY_KEY = 'AIzaSyBke8uqL6PTJV7QpaXCdQnSK4oLTXlB6oQ'; // Reemplázalo con tu clave API
+const API_KEY = 'AIzaSyBke8uqL6PTJV7QpaXCdQnSK4oLTXlB6oQ'; // Reemplázalo con tu clave API
 
 const getDataFromSheet = async () => {
     const url = `https://sheets.googleapis.com/v4/spreadsheets/${SHEET_ID}/values/A1:Z1000?key=${API_KEY}`;
